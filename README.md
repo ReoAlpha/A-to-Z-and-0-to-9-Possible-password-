@@ -1,7 +1,9 @@
 # A-to-Z-and-0-to-9-Possible-password-
-you can use this wordlist for password cracking and subdomain bruteforcing.This wordlist containing  all the possible passwords.
+===>you can use this wordlist for password cracking and subdomain bruteforcing.This wordlist containing  all the possible passwords.
 
-Here is python code
+===>Here is python code
+
+#Notice if you have high end computer or laptop then run this python file ,low end computer can't handel this command 
 
 import itertools
 
