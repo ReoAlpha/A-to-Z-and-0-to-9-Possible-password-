@@ -24,5 +24,6 @@ import itertools
     for combination in combinations:
         file.write(f'{combination}\n') 
         
-                                      <=====
-enjoy
+                                    
+        
+#enjoy
