@@ -6,6 +6,7 @@ Here is python code
 import itertools
 
 ====> 
+
     #add you want characters or symbols in this this charecter section
     
     characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
